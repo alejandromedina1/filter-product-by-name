@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Nike Dri-FIT ADV TechKnit Ultra",
+    "product_type": "Running Tank",
+    "price": 80,
+    "colors": ["White", "Black", "Grey"],
+    "gender": "Men"
+  },
+  {
+    "name": "Nike Solar Chase",
+    "product_type": "Running Top",
+    "price": 65,
+    "colors": ["Blue", "Orange"],
+    "gender": "Men"
+  },
+  {
+    "name": "Nike Primary Dri-FIT Versatile Tank",
+    "product_type": "Versatile Tank",
+    "price": 55,
+    "colors": ["Black", "White"],
+    "gender": "Men"
+  },
+  {
+    "name": "Nike One Classic",
+    "product_type": "Short-Sleeve Top",
+    "price": 45,
+    "colors": ["Black", "Grey"],
+    "gender": "Women"
+  },
+  {
+    "name": "Nike AeroSwift Dri-FIT Running Singlet",
+    "product_type": "Running Singlet",
+    "price": 90,
+    "colors": ["White", "Black"],
+    "gender": "Men"
+  },
+  {
+    "name": "Nike Dri-FIT Running T-Shirt",
+    "product_type": "Running T-Shirt",
+    "price": 40,
+    "colors": ["Red", "Blue", "White"],
+    "gender": "Men"
+  },
+  {
+    "name": "Nike Miler Dri-FIT Running Tank",
+    "product_type": "Running Tank",
+    "price": 35,
+    "colors": ["Green", "Black"],
+    "gender": "Men"
+  },
+  {
+    "name": "Nike Challenger Dri-FIT Running Shorts",
+    "product_type": "Running Shorts",
+    "price": 40,
+    "colors": ["Black", "Blue"],
+    "gender": "Men"
+  },
+  {
+    "name": "Nike Swoosh Medium Support Sports Bra",
+    "product_type": "Sports Bra",
+    "price": 58,
+    "colors": ["Black", "White"],
+    "gender": "Women"
+  },
+  {
+    "name": "Nike One Fitted Cropped Tank Top",
+    "product_type": "Cropped Tank Top",
+    "price": 40,
+    "colors": ["White", "Black"],
+    "gender": "Women"
+  },
+  {
+    "name": "Nike Solar Chase Sleeveless Running Top",
+    "product_type": "Sleeveless Running Top",
+    "price": 65,
+    "colors": ["Blue", "Orange"],
+    "gender": "Men"
+  },
+  {
+    "name": "Nike Rise 365 Running Top",
+    "product_type": "Running Top",
+    "price": 55,
+    "colors": ["White", "Grey"],
+    "gender": "Men"
+  },
+  {
+    "name": "Nike Trail Solar Chase Running Top",
+    "product_type": "Running Top",
+    "price": 65,
+    "colors": ["Green", "Black"],
+    "gender": "Men"
+  },
+  {
+    "name": "Nike Miler Short-Sleeve Running Top",
+    "product_type": "Short-Sleeve Running Top",
+    "price": 35,
+    "colors": ["Black", "White"],
+    "gender": "Men"
+  },
+  {
+    "name": "Nike AeroSwift ADV Running Singlet",
+    "product_type": "Running Singlet",
+    "price": 90,
+    "colors": ["Black", "White"],
+    "gender": "Men"
+  },
+  {
+    "name": "Nike Primary Dri-FIT Versatile Top",
+    "product_type": "Versatile Top",
+    "price": 55,
+    "colors": ["White", "Black"],
+    "gender": "Men"
+  },
+  {
+    "name": "Nike Trail Second Sunrise Shorts",
+    "product_type": "Running Shorts",
+    "price": 75,
+    "colors": ["Green", "Black"],
+    "gender": "Men"
+  },
+  {
+    "name": "Nike Fast Run Energy Singlet",
+    "product_type": "Running Singlet",
+    "price": 50,
+    "colors": ["White", "Black"],
+    "gender": "Men"
+  },
+  {
+    "name": "Nike One Classic Breathe Top",
+    "product_type": "Short-Sleeve Top",
+    "price": 50,
+    "colors": ["White", "Grey"],
+    "gender": "Women"
+  },
+  {
+    "name": "Nike Indy Medium Support Sports Bra",
+    "product_type": "Sports Bra",
+    "price": 42,
+    "colors": ["Black", "White"],
+    "gender": "Women"
+  }
+]
